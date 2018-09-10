@@ -53,7 +53,7 @@ void block(int n){
 				//draw '.' and 'o' inside border
 				if(r==c ||r+c == n+1){
 					// if(r==c)   //   if(r+c == n+1)
-					//   o...	  //	 ...o
+					//   o...     //     ...o
 					//   .o..     or     ..o.
 					//   ..o.     //     .o..
 					//   ...o     //     o...
