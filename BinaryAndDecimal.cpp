@@ -1,4 +1,11 @@
+/*
+      //running
+	Binary of 998 = 1111100110
+	Decimal of 1111100110 = 998
+*/
+
 #include <stdio.h>
+
 int tobinary(int);
 int toDecimal(int);
 
