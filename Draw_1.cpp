@@ -1,4 +1,3 @@
-#include <stdio.h>
 /*
       //running
 	4
@@ -10,6 +9,8 @@
 	.o.o.
 	x...x
 */
+#include <stdio.h>
+
 int sumOddvalue(int);
 void show(char,int);
 void block(int);
