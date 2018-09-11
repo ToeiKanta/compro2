@@ -1,4 +1,3 @@
-#include <stdio.h>
 /*
             n=17
       12345678901234567
@@ -21,6 +20,9 @@
 17    X-------+-------X
 
 */
+
+#include <stdio.h>
+
 int main(){
 	int n=17,count=0;
 	printf("%-6c",' ');
