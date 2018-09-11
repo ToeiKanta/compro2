@@ -1,5 +1,15 @@
 #include <stdio.h>
-
+/*
+      //running
+	4
+	c d e f
+	y z a
+	x...x
+	.o.o.
+	..o..
+	.o.o.
+	x...x
+*/
 int sumOddvalue(int);
 void show(char,int);
 void block(int);
