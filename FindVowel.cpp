@@ -1,3 +1,14 @@
+// How many number (2-5): 3
+// OK...
+// --- part 2 ---
+// String 1 = Facebook
+// String 2 = Hello World
+// String 3 = CSS HTML
+// --- part 3 ---
+// String 1 = "Facebook" : contain " a e o o " to vowel 4.
+// String 2 = "Hello World" : contain " e o o " to vowel 3.
+// String 3 = "CSS HTML " : Not Vowel
+
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
