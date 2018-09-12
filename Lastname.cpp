@@ -1,3 +1,17 @@
+// How many number (2-5): 2
+// OK...
+// --- part 2 ---
+// Name 1 = KAsd QWEE
+// Name 2 = ASDE FGGWQA
+// --- part 3 ---
+// Name 1 = KAsd QWEE
+// Last name is = QWEE
+// Number of lastname = 4
+
+// Name 2 = ASDE FGGWQA
+// Last name is = FGGWQA
+// Number of lastname = 6
+
 #include <stdio.h>
 #include <string.h>
 int main(){
