@@ -39,7 +39,7 @@ int main(){
 }
 
 void show(char str[],int i){
-	char last[30];
+	char last[30]={0};
 	int start =0,pos=0;
 	int len=0;
 	printf("Name %d = %s \n",i+1,str);
