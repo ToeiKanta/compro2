@@ -1,3 +1,14 @@
+/*
+      //running
+	4
+	c d e f
+	y z a
+	x...x
+	.o.o.
+	..o..
+	.o.o.
+	x...x
+*/
 #include <stdio.h>
 
 int sumOddvalue(int);
